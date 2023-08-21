@@ -1,2 +1,2 @@
 <h1>Bonjour tout le monde</h1>
-<h2>coucou</h2>
+<h2>Coucou tout le monde</h2>
